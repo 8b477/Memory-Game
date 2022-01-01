@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+#start, #retry{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+a{
+    text-decoration-line: none;
+    color: white;
+}
+
+
+.accordion-button{
+    text-align: center;
+}
